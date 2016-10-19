@@ -1,2 +1,2 @@
-export * from './lib/jsoneditor.component';
-export * from './lib/jsoneditor.options';
+export * from './src/jsoneditor.component';
+export * from './src/jsoneditor.options';

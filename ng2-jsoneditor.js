@@ -1,2 +1,2 @@
-exports.JsonEditorComponent = require('./lib/jsoneditor.component').JsonEditorComponent;
-exports.JsonEditorOptions = require('./lib/jsoneditor.options').JsonEditorOptions;
+exports.JsonEditorComponent = require('./src/jsoneditor.component').JsonEditorComponent;
+exports.JsonEditorOptions = require('./src/jsoneditor.options').JsonEditorOptions;
